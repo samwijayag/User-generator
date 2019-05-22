@@ -1,0 +1,12 @@
+h1{
+	font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
+	font-size: 4em !important;
+	letter-spacing: 3.2px;
+	word-spacing: -1.8px;
+	color: #fffcfc;
+	font-weight: 700;
+	text-decoration: none;
+	font-style: normal;
+	font-variant: small-caps;
+	text-transform: uppercase;
+}

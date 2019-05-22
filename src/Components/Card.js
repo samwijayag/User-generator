@@ -1,13 +1,13 @@
 import React from 'react';
 
-const Card = ({name,email,id}) =>	{
+const Card = (props) =>	{
 	return(
-		<div className="bg-light-gray dib br2 pa4 ma2 grow bw3 shadow-5 fs3"> 
-			<img src={`https://randomuser.me/api/portraits/women/${id}.jpg`} alt="user-image"/>
+		<div className="bg-light-gray dib br4 pa4 ma2 grow bw3 shadow-4"> 
+			<img src={props.image} alt="user"/>
 			<div>
-				<h2>{name}</h2>
-				<p>{email}</p>
-			</div> 
+				<h2>{props.firstName} {props.lastName}</h2>
+				<p>{props.email}</p>
+			</div>
 		</div>
 	)
 }
