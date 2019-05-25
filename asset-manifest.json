@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/User-generator/static/css/main.48fae707.chunk.css",
+    "main.js": "/User-generator/static/js/main.db766f74.chunk.js",
+    "main.js.map": "/User-generator/static/js/main.db766f74.chunk.js.map",
+    "runtime~main.js": "/User-generator/static/js/runtime~main.c2b4c791.js",
+    "runtime~main.js.map": "/User-generator/static/js/runtime~main.c2b4c791.js.map",
+    "static/css/2.31dafeb2.chunk.css": "/User-generator/static/css/2.31dafeb2.chunk.css",
+    "static/js/2.b3c9f41e.chunk.js": "/User-generator/static/js/2.b3c9f41e.chunk.js",
+    "static/js/2.b3c9f41e.chunk.js.map": "/User-generator/static/js/2.b3c9f41e.chunk.js.map",
+    "index.html": "/User-generator/index.html",
+    "precache-manifest.7582f396e1ea62dafbf1c12832322e50.js": "/User-generator/precache-manifest.7582f396e1ea62dafbf1c12832322e50.js",
+    "service-worker.js": "/User-generator/service-worker.js",
+    "static/css/2.31dafeb2.chunk.css.map": "/User-generator/static/css/2.31dafeb2.chunk.css.map",
+    "static/css/main.48fae707.chunk.css.map": "/User-generator/static/css/main.48fae707.chunk.css.map"
+  }
+}
