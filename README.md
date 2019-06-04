@@ -3,7 +3,7 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Guide: 
+## GIF Guide: 
 
 <a href="https://imgflip.com/gif/32o3ld"><img src="https://i.imgflip.com/32o3ld.gif" title="made at imgflip.com"/></a>
 <a href="https://imgflip.com/gif/32o3qt"><img src="https://i.imgflip.com/32o3qt.gif" title="made at imgflip.com"/></a>
@@ -12,7 +12,9 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Info
 
-This app fetches data from an API and outputs random users onto the screen
+This app fetches data from an API and outputs random users onto the screen.
+Generates new users each page refresh.
+Filter's through user's names on search input. 
 
 #### Tools used on this app: 
 
